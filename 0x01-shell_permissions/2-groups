@@ -1,2 +1,2 @@
 #!/bin/bash
-getent group
+username=$(whoami)
